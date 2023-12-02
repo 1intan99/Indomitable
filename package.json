@@ -44,7 +44,7 @@
   },
   "homepage": "https://github.com/Deivu/Indomitable#readme",
   "peerDependencies": {
-    "discord.js": ">=14.10.x",
+    "discord.js": ">=14.13.0",
     "@discordjs/ws": ">=1.0.0"
   },
   "devDependencies": {
